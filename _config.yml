@@ -21,9 +21,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 author:                                                                                 #all the author infor is in data/author.yml for posts by different authors.
                                                                                         #https://mmistakes.github.io/minimal-mistakes/docs/layouts/#author-profile
-  name   : "jayer fernandes"
+  #name   : "jayer fernandes"
   avatar : "/assets/images/jayer.png"
   bio    : "engineerer"
+  location: "Madison, WI"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -64,7 +65,7 @@ url                      :  "https://jayerfernandes.github.io"
 baseurl                  : #/jayerfernandes
 repository               : "jayerfernandes/jayerfernandes.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/bio-photo.jpg"                                     #masthead logo/photo
+#logo                     : "/assets/images/bio-photo.jpg"                                     #masthead logo/photo
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

@@ -23,28 +23,27 @@ author:                                                                         
                                                                                         #https://mmistakes.github.io/minimal-mistakes/docs/layouts/#author-profile
   name   : "jayer fernandes"
   avatar : "/assets/images/jayer.png"
-  bio    : "engineereringest"
-  #location: "Madison, WI"
+  bio    : "engineerer"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jayerfernandes@gmail.com"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/jayerfernandes/"
+      url: "https://instagram.com/"
 
  
 
 footer:
   links:
-   # - label: "Twitter"
-   #   icon: "fab fa-fw fa-twitter-square"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -65,7 +64,7 @@ url                      :  "https://jayerfernandes.github.io"
 baseurl                  : #/jayerfernandes
 repository               : "jayerfernandes/jayerfernandes.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-#logo                     : "/assets/images/bio-photo.jpg"                                     #masthead logo/photo
+logo                     : "/assets/images/bio-photo.jpg"                                     #masthead logo/photo
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

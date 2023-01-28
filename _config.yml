@@ -19,7 +19,8 @@ remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 
-author:                                                                                 #all the author infor is in data/author.yml
+author:                                                                                 #all the author infor is in data/author.yml for posts by different authors.
+                                                                                        #https://mmistakes.github.io/minimal-mistakes/docs/layouts/#author-profile
   name   : "jayer fernandes"
   avatar : "/assets/images/jayer.png"
   bio    : "engineerer"

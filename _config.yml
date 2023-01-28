@@ -16,7 +16,7 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "constrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 
 author:                                                                                 #all the author infor is in data/author.yml for posts by different authors.

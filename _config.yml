@@ -236,7 +236,7 @@ tag_archive:
   path: /tags/
 
 
-# Sass/SCSS
+# Sass/SCSS                                                                                                                             #adding this seems to cause an error. I'm not sure why. I can work with the sass directory though
   #sass:
   #sass_dir: _sass
   #style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
